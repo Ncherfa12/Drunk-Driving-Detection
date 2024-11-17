@@ -1,6 +1,16 @@
 # Drunk Driving Detection Using Vehicle Kinematics
 
-⚠️ IMPORTANT NOTE: Due to privacy concerns and the sensitive nature of the data, raw datasets are not included in this repository. Additionally, this repository only contains a base version of the code, with significant portions omitted due to sensitive information.
+⚠️ Important Note:
+
+Due to the sensitive nature of the data used in this project and strict privacy agreements, the raw datasets are not included in this repository. Additionally, this repository contains only a simplified version of the codebase. Certain components and full implementations have been omitted to comply with data protection and confidentiality requirements.
+
+Why This Matters:
+While the provided code and documentation showcase the general methodology and approach, they are intended as a proof of concept. The missing portions involve the raw data itself and the preprocessing steps and specific model configurations that cannot be shared publicly due to contractual obligations.
+
+How to Use This Repository:
+
+The current content still provides an overview of the problem-solving approach, feature engineering, and high-level analysis techniques used.
+To help others understand the methodology, I have included a detailed explanation of the process in the README, along with suggestions for how a similar analysis might be conducted with publicly available or synthetic data.
 
 ## Project Overview
 This project investigates the detection of impaired driving using vehicle kinematics data. The analysis leverages a dataset from the Virginia Tech Transportation Institute (VTTI), comparing trips identified as alcohol-influenced against trips with unknown alcohol levels. The objective is to uncover kinematic patterns indicative of impaired driving, utilizing both machine learning and deep learning techniques.
