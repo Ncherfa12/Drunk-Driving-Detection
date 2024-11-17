@@ -10,7 +10,6 @@ While the provided code and documentation showcase the general methodology and a
 How to Use This Repository:
 
 The current content still provides an overview of the problem-solving approach, feature engineering, and high-level analysis techniques used.
-To help others understand the methodology, I have included a detailed explanation of the process in the README, along with suggestions for how a similar analysis might be conducted with publicly available or synthetic data.
 
 ## Project Overview
 This project investigates the detection of impaired driving using vehicle kinematics data. The analysis leverages a dataset from the Virginia Tech Transportation Institute (VTTI), comparing trips identified as alcohol-influenced against trips with unknown alcohol levels. The objective is to uncover kinematic patterns indicative of impaired driving, utilizing both machine learning and deep learning techniques.
