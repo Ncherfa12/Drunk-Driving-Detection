@@ -2,7 +2,7 @@
 
 ⚠️ Important Note:
 
-Due to the sensitive nature of the data used in this project and strict privacy agreements (with Virginia Tech Transportation Insitute: https://www.vtti.vt.edu/), the raw datasets are not included in this repository. Additionally, this repository contains only a simplified version of the codebase. Certain components and full implementations have been omitted to comply with data protection and confidentiality requirements.
+Due to the sensitive nature of the data used in this project and strict privacy agreements (with Virginia Tech Transportation Institute: https://www.vtti.vt.edu/), the raw datasets are not included in this repository. Additionally, this repository contains only a simplified version of the codebase. Certain components and full implementations have been omitted to comply with data protection and confidentiality requirements.
 
 Why This Matters:
 While the provided code and documentation showcase the general methodology and approach, they are intended as a proof of concept. The missing portions involve the raw data itself and the preprocessing steps and specific model configurations that cannot be shared publicly due to contractual obligations.
